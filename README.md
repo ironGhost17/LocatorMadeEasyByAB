@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Playwright](https://img.shields.io/badge/Automation-Playwright-green)
 ![OpenAI](https://img.shields.io/badge/AI-OpenAI-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 AI-powered locator discovery system that analyzes webpages using DOM + vision reasoning to generate reliable automation locators.
 
