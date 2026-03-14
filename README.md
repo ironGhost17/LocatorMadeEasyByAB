@@ -7,7 +7,7 @@
 
 AI-powered locator discovery system that analyzes webpages using DOM + vision reasoning to generate reliable automation locators.
 
-
+⭐ If you find this project useful, consider giving it a star!
 
 # LocatorMadeEasyByAB
 
