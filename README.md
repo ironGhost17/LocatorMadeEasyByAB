@@ -1,5 +1,16 @@
 # LocatorMadeEasyByAB
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Playwright](https://img.shields.io/badge/Automation-Playwright-green)
+![OpenAI](https://img.shields.io/badge/AI-OpenAI-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+AI-powered locator discovery system that analyzes webpages using DOM + vision reasoning to generate reliable automation locators.
+
+
+
+# LocatorMadeEasyByAB
+
 AI-powered locator discovery system that analyzes webpages using **DOM parsing + vision reasoning** to automatically generate, validate, and rank UI locators for automation testing.
 
 This project demonstrates an **agentic architecture** combining browser automation, LLM reasoning, and locator validation.
